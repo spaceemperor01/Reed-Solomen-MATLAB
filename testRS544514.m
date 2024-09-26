@@ -11,7 +11,7 @@ codeval=code.x;
 % 
 % err=length(find(codeval-codevalsys'));
 
-errind=[3,4,102,456];
+errind=[3,4,102,533];
 errmes=gf([6,4,17,36],10);
 sig=code;
 for i=1:length(errind)
